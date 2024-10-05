@@ -12,8 +12,7 @@ WebWave Innovations is a dynamic web development company dedicated to delivering
 - [Contact](#contact)
 
 ## Demo
-![ Screenshot](https://github.com/KishorKudnar/WebWave-Innovations/raw/main/Screen Recording.mp4)
-
+You can view the live demo of the project [here](https://kishorkudnar.github.io/webwave-innovations/).
 ## Usage
 After installation, open `index.html` in your browser. You can interact with the different sections of the website.
 
