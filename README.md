@@ -12,7 +12,7 @@ WebWave Innovations is a dynamic web development company dedicated to delivering
 - [Contact](#contact)
 
 ## Demo
-
+![Calculator Screenshot](https://github.com/KishorKudnar/calculator-project/raw/main/"Screen Recording.mp4")
 
 ## Usage
 After installation, open `index.html` in your browser. You can interact with the different sections of the website.
