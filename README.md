@@ -4,11 +4,14 @@
 WebWave Innovations is a dynamic web development company dedicated to delivering exceptional digital solutions. Our mission is to empower businesses and enhance user experiences through cutting-edge web solutions.
 
 ## Table of Contents
+- [Demo](#demo)
 - [Usage](#usage)
 - [Features](#features)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
+
+## Demo
 
 
 ## Usage
@@ -31,10 +34,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 For inquiries, reach out at: [info@wwi.com](mailto:info@wwi.com)
-
-### Tips for a Good README
-
-- **Be Clear and Concise**: Write in simple language and be straightforward in your explanations.
-- **Use Code Snippets**: If applicable, include code examples to illustrate how to use your project.
-- **Keep it Updated**: Ensure that your README reflects the current state of your project as it evolves.
-- **Add Badges**: You can include badges for things like build status, license, and version to give users quick information.
